@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajayyadukrishnan/H5Scripts.git"
+    "url": "git+https://github.com/ajayyadukrishnan/H5ScriptsTemplate.git"
   },
   "keywords": [
     "H5",
@@ -17,9 +17,9 @@
   "author": "Ajay Yadukrishnan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajayyadukrishnan/H5Scripts/issues"
+    "url": "https://github.com/ajayyadukrishnan/H5ScriptsTemplate/issues"
   },
-  "homepage": "https://github.com/ajayyadukrishnan/H5Scripts#readme",
+  "homepage": "https://github.com/ajayyadukrishnan/H5ScriptsTemplate#readme",
   "dependencies": {
     "http-server": "^14.1.1",
     "serve": "^14.0.1",
