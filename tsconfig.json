@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        // "target": "es5",
+        "sourceMap": true,
+        "watch": true,
+        // "lib": ["ESNext", "dom"],
+        "rootDir": "scripts/typescript/src",
+        "outDir": "scripts/typescript/build",
+    },
+    "exclude": ["node_modules"]
+}

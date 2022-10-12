@@ -1,0 +1,28 @@
+{
+  "name": "h5scripts",
+  "version": "1.0.0",
+  "description": "H5 Scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayyadukrishnan/H5Scripts.git"
+  },
+  "keywords": [
+    "H5",
+    "Scripts"
+  ],
+  "author": "Ajay Yadukrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajayyadukrishnan/H5Scripts/issues"
+  },
+  "homepage": "https://github.com/ajayyadukrishnan/H5Scripts#readme",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "serve": "^14.0.1",
+    "typescript": "^4.8.4"
+  }
+}
